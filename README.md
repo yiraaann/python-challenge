@@ -7,4 +7,4 @@ for PyPoll, I received assistance from a Tutor (CJ Campbell) on the list & dicti
 
 for PyBank, I had been struggling for several days trying to append a 3rd column of differences from month to month indexed to the most recent such month. I then kept running into list & int issues before taking a long walk and realizing I could just designate a counter variable to keep track of net profit/loss and iterate through each row without needing to store the month to month difference after testing it against a "greatest increase" and "greatest decrease" variable.
 
-grateful to have finally gotten to the bottom of all the (obvious) issues
+additional assistance for redoing the assignment from CJ via tutoring 3/2025.
